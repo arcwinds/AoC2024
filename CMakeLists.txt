@@ -3,4 +3,5 @@ project(AoC2024)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(AoC2024_1 1/main.cpp)
+add_executable(AoC2024_1_1 1/part1.cpp)
+add_executable(AoC2024_1_2 1/part2.cpp)
